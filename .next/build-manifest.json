@@ -29,6 +29,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/campaigns/[address].js"
+    ],
+    "/campaigns/[address]/new": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/campaigns/[address]/new.js"
+    ],
+    "/campaigns/[address]/requests": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/campaigns/[address]/requests.js"
     ]
   },
   "ampFirstPages": []
